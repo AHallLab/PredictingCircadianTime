@@ -1,0 +1,8 @@
+
+Fpython:S1481"'Remove the unused local variable "fft".(ºˆöı8·‰»‡ª.
+ppython:S117"MRename this parameter "J" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê¾‘Âÿÿÿÿÿ8·‰»‡ª.
+npython:S117"PRename this parameter "X_ID" to match the regular expression ^[_a-z][a-z0-9_]*$.(èşÔÛ8Šú‰ª.
+Npython:S1481<"/Remove the unused local variable "argmax_corr".(¡ÉâÖ8³úŠª.
+Lpython:S5603"(Remove this unused function declaration.(çÊ†úúÿÿÿÿ8·‰»‡ª.
+spython:S117"PRename this parameter "X_ID" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê¾‘Âÿÿÿÿÿ8«ÏÁ‡ª.
+Hpython:S14819")Remove the unused local variable "shift".(Ã•ËÑ8³úŠª.

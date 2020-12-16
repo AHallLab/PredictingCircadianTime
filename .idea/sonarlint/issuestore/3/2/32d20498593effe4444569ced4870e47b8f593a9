@@ -1,0 +1,24 @@
+
+fpython:S101I"HRename class "ols" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(”ƒ‚œ8ğ¨‘í¹.
+[python:PrintStatementUsageå"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+[python:PrintStatementUsageã"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+[python:PrintStatementUsageç"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+ypython:S117Â"URename this local variable "JBpv" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢À§€ıÿÿÿÿ8ğ¨‘í¹.
+mpython:S100¬"IRename method "ll" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ã•¿ßşÿÿÿÿ8ğ¨‘í¹.
+[python:PrintStatementUsageÖ"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+opython:S116Œ"KRename this field "Fpv" to match the regular expression ^[_a-z][_a-z0-9]*$.(¯À´„øÿÿÿÿ8ğ¨‘í¹.
+[python:PrintStatementUsageÚ"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+ypython:S117¨"URename this local variable "JBpv" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Æ†ãûÿÿÿÿ8ğ¨‘í¹.
+[python:PrintStatementUsageé"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+[python:PrintStatementUsageí"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+lpython:S116‰"MRename this field "R2adj" to match the regular expression ^[_a-z][_a-z0-9]*$.(èŞÇ8ğ¨‘í¹.
+mpython:S100"IRename method "JB" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘ ª üÿÿÿÿ8ğ¨‘í¹.
+[python:PrintStatementUsageØ"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+[python:PrintStatementUsageü"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+Fpython:S1481"'Remove the unused local variable "msg".(ëŸ¶¾8Ÿı”í¹.
+[python:PrintStatementUsageë"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+^python:S905ı":Remove or refactor this statement; it has no side effects.(®™¶ıüÿÿÿÿ8ğ¨‘í¹.
+[python:PrintStatementUsageÜ"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+[python:PrintStatementUsageù"-Replace print statement by built-in function.(£Âª’8ğ¨‘í¹.
+Jpython:S1481¾"%Remove the unused local variable "t".(‘ÉæŞşÿÿÿÿ8ÇÈ’í¹.
+mpython:S100"IRename method "dw" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çŒŠ´øÿÿÿÿ8ğ¨‘í¹.

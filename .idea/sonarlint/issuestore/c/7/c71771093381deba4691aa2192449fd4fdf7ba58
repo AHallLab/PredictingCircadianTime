@@ -1,0 +1,18 @@
+
+rpython:S117"SRename this parameter "T_start" to match the regular expression ^[_a-z][a-z0-9_]*$.(™—¬½8»Ôí¹.
+opython:S117s"QRename this parameter "T_end" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ ìå8•¦í¹.
+qpython:S117s"SRename this parameter "T_start" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ ìå8•¦í¹.
+[python:PrintStatementUsageñ"-Replace print statement by built-in function.(£Âª’8áÜŞí¹.
+[python:S5754D"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8•¦í¹.
+npython:S1226¹"IIntroduce a new variable or use its initial value before reassigning 'x'.(ÌËÙÈùÿÿÿÿ8Ãôâí¹.
+[python:S5754_"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8•¦í¹.
+\python:S5754â"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8áÜŞí¹.
+\python:S5754ı"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8áÜŞí¹.
+Zpython:PrintStatementUsageK"-Replace print statement by built-in function.(£Âª’8•¦í¹.
+spython:S117s"URename this parameter "T_default" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ ìå8•¦í¹.
+kpython:S1163"MRename this field "R2adj" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ø¿Ğ»8•¦í¹.
+zpython:S117¶"VRename this local variable "R2adj" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬“ÕÎüÿÿÿÿ8ºÒ×í¹.
+tpython:S117"URename this parameter "T_default" to match the regular expression ^[_a-z][a-z0-9_]*$.(™—¬½8»Ôí¹.
+Zpython:PrintStatementUsageS"-Replace print statement by built-in function.(£Âª’8•¦í¹.
+[python:PrintStatementUsageé"-Replace print statement by built-in function.(£Âª’8áÜŞí¹.
+ppython:S117"QRename this parameter "T_end" to match the regular expression ^[_a-z][a-z0-9_]*$.(™—¬½8»Ôí¹.
