@@ -24,10 +24,10 @@ np.random.seed(SEED)
 tf.random.set_seed(SEED)
 os.environ['PYTHONHASHSEED'] = str(SEED)
 
-df = pd.read_csv('X_train_raw.csv').T
-df_valid = pd.read_csv('X_valid_raw.csv').T
-df_test = pd.concat((pd.read_csv('X_test_raw_A.txt').T, pd.read_csv('X_test_raw_B.txt').T)).iloc[[0, 1, 2, 4, 5], :]
-rach_clusters = pd.read_csv('X_train_clusters.csv')
+df = pd.read_csv('Data\\X_train_raw.csv').T
+df_valid = pd.read_csv('Data\\X_valid_raw.csv').T
+df_test = pd.concat((pd.read_csv('Data\\X_test_raw_A.txt').T, pd.read_csv('Data\\X_test_raw_B.txt').T)).iloc[[0, 1, 2, 4, 5], :]
+rach_clusters = pd.read_csv('Data\\X_train_clusters.csv')
 Y_data = df.iloc[1:, -1].astype('float64')
 Y_copy = Y_data
 Y_valid_data = df_valid.iloc[1:, -1].astype('float64')
