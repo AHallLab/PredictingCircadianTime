@@ -4,6 +4,8 @@ from scipy.optimize import curve_fit
 
 
 def rae(x_data, x_time):
+    "x_data - An array containing the expression data for one gene at n sampling times"
+    "x_time - An array containing the n sampling times "
     # Remove linear trend from time series, mean to 0, slope to 0
     x_detrend = detrend(x_data.values, type='linear')
     # Calculate FFT of the detrended series
