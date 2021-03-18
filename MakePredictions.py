@@ -5,7 +5,7 @@ import math
 import tensorflow as tf
 from sklearn.preprocessing import normalize
 
-x_data = pd.read_csv('Data\\X_train_raw.csv').T
+x_data = pd.read_csv('Data\\X_train_raw.csv').T  # Replace with new expression dataset
 x_data.columns = x_data.iloc[0]
 genes = pd.read_csv('Data\\CircadianGenes.csv', header=None)
 x_data = x_data.loc[:, genes.values.ravel()]
