@@ -5,9 +5,9 @@ import math
 import tensorflow as tf
 from sklearn.preprocessing import normalize
 
-x_data = pd.read_csv('Data\\X_train_raw.txt').T
+x_data = pd.read_csv('Data\\X_train_raw.csv').T
 x_data.columns = x_data.iloc[0]
-genes = pd.read_csv('CircadianGenes.csv', header=None)
+genes = pd.read_csv('Data\\CircadianGenes.csv', header=None)
 x_data = x_data.loc[:, genes.values.ravel()]
 x_data = x_data.iloc[1:, :]
 
@@ -16,7 +16,7 @@ def predict_time(x_data):
     x_data_scaled = scaler.transform(x_data)
     all_preds = []
     for i in range(12):
-        model = tf.keras.models.load_model('CircadianArabidopsisModel{}.hdf5'.format(i), compile=False)
+        model = tf.keras.models.load_model('TrainedModels\\CircadianArabidopsisModel{}.hdf5'.format(i), compile=False)
         all_preds.append(normalize(model.predict(x_data_scaled)))
     time_preds = np.mean(all_preds, axis=0)
     time_angles = []
